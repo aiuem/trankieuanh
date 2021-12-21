@@ -1,20 +1,18 @@
 const CONFIG = {
-    titleWeb: "superpro",
+    titleWeb: "Hi, scla PhNghi",
     introTitle: 'gửi cậu, chính cậu đóo',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Trời hong đen, mây cũng hong trắng
+    Anh hong say nắng, nhưng lại say em`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    title: 'Vì đã lỡ iu em rồi ',
+    desc: 'Chẳng dám hứa xa xôiiiiiiiiiiiii',
+    btnYes: 'Tớ cũng thích cậu lắm íiiiii',
+    btnNo: 'Không nha :3,tớ chỉ xem cậu là bạn thuiii :((',
+    question: 'Tớ muốn nói là tớ thích nụ cười và tính cách của cậu tớ chịu đc <33,
     btnReply: 'Gửi cho cậu <3',
-    reply: 'Yêu thì yêu mà không yêu thì vẫn phải yêu yếu yều yễuuu <33333333',
+    reply: 'Yêu thì yêu mà không yêu thì vẫn phải yếu yều yêuuuuuuuuuu <33333333',
     mess: 'Mình biết mà 🥰. Yêu cậu nhìu:) 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    messDesc: 'Tối mà cậu rảnh á tớ muốn call vd với cậu để hỏi bài thuii à.....thậtttt',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/zukahai/trankieuanh' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
